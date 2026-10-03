@@ -1,0 +1,5 @@
+# Keep this repository limited to Jupyter notebook source files.
+*
+!*/
+!*.ipynb
+!.gitignore
